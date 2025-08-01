@@ -88,4 +88,3 @@ The analysis provides a strong foundation for building churn prediction models a
 ## ✍️ Author
 Sia Thakur
 Aspiring Data Analyst | Python & SQL Enthusiast  
-📍 India | 🌐 [LinkedIn Profile Link]  
